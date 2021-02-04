@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/animated-background-3d/static/css/main.24123135.chunk.css",
+    "main.js": "/animated-background-3d/static/js/main.f3792cf1.chunk.js",
+    "main.js.map": "/animated-background-3d/static/js/main.f3792cf1.chunk.js.map",
+    "runtime-main.js": "/animated-background-3d/static/js/runtime-main.5e465830.js",
+    "runtime-main.js.map": "/animated-background-3d/static/js/runtime-main.5e465830.js.map",
+    "static/js/2.8b73c33b.chunk.js": "/animated-background-3d/static/js/2.8b73c33b.chunk.js",
+    "static/js/2.8b73c33b.chunk.js.map": "/animated-background-3d/static/js/2.8b73c33b.chunk.js.map",
+    "static/js/3.f800ae0a.chunk.js": "/animated-background-3d/static/js/3.f800ae0a.chunk.js",
+    "static/js/3.f800ae0a.chunk.js.map": "/animated-background-3d/static/js/3.f800ae0a.chunk.js.map",
+    "index.html": "/animated-background-3d/index.html",
+    "static/css/main.24123135.chunk.css.map": "/animated-background-3d/static/css/main.24123135.chunk.css.map",
+    "static/js/2.8b73c33b.chunk.js.LICENSE.txt": "/animated-background-3d/static/js/2.8b73c33b.chunk.js.LICENSE.txt",
+    "static/media/AnimatedBackground3D.scss": "/animated-background-3d/static/media/bayern.2300b533.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e465830.js",
+    "static/js/2.8b73c33b.chunk.js",
+    "static/css/main.24123135.chunk.css",
+    "static/js/main.f3792cf1.chunk.js"
+  ]
+}
